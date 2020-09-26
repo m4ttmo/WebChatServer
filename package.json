@@ -1,0 +1,16 @@
+{
+  "name": "worldchat",
+  "version": "1.0.0",
+  "description": "connecting the world",
+  "main": "client.js",
+  "dependencies": {
+    "ws": "^7.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "author": "matt",
+  "license": "ISC"
+}
